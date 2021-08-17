@@ -1,4 +1,4 @@
-package main.creational.singleton;
+package com.mauricio.design_patterns.creational.singleton;
 
 /**
  * In Eager initialization, the instance of singleton class is create at the time of class

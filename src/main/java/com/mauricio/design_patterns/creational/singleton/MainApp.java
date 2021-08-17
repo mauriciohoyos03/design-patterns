@@ -1,6 +1,4 @@
-package main;
-
-import main.creational.singleton.*;
+package com.mauricio.design_patterns.creational.singleton;
 
 public class MainApp {
     public static void main(String... arg){

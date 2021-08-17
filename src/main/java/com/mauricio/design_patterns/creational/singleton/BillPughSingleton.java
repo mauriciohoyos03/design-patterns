@@ -1,4 +1,4 @@
-package main.creational.singleton;
+package com.mauricio.design_patterns.creational.singleton;
 
 /**
  * Bill pugh came up a different approach to created a singleton class using

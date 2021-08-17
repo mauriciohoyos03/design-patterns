@@ -1,4 +1,4 @@
-package main.creational.singleton;
+package com.mauricio.design_patterns.creational.singleton;
 
 /**
  * The easier way to create the thread-safe singleton class is to make the global access method

@@ -1,4 +1,4 @@
-package main.creational.singleton;
+package com.mauricio.design_patterns.creational.singleton;
 
 /**
  * Here, the instance of the class is created on the static block that provider option for

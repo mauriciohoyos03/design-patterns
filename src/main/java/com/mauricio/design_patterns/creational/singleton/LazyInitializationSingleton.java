@@ -1,4 +1,4 @@
-package main.creational.singleton;
+package com.mauricio.design_patterns.creational.singleton;
 
 /**
  * Lazy initialization method create the instance in the global access method.
